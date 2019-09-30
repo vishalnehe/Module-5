@@ -466,6 +466,10 @@ footer {
         margin: 0 2%;
         float: none; } }
 
+@media screen and (max-width: 459px) {
+  article img {
+    display: none; } }
+
 header {
   width: inherit;
   clear: both;

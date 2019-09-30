@@ -68,10 +68,10 @@
     }
 }
 
-// article{
-//     img{
-//         @include break(459px){
-//             display: none;
-//         }
-//     }
-// }
+article{
+    img{
+        @include break(459px){
+            display: none;
+        }
+    }
+}
