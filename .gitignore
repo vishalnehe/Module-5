@@ -1,0 +1,4 @@
+node_modules/
+package-lock.json
+dist/css/desktop.ini
+dist/images/desktop.ini

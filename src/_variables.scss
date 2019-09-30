@@ -1,0 +1,22 @@
+$white:         #FFF;
+$red:           #E65C43;
+$gray:          #666;
+$graybar:       #F5F6F6;
+$footer:        #30353D;
+$body-background: url('../images/bg.gif');
+$body-font:       'Roboto', sans-serif;
+$logo:            url('../images/logo.png');
+$heading-colors: $red, $white, $gray;
+// $divs:(
+//     one: url('../images/social-media1.png') 0 0,
+//     two: url('../images/social-media2.png') -38px 0,
+//     three:url('../images/social-media3.png') -76px 0,
+//     four: url('../images/social-media4.png') -114px 0
+// );
+
+$divs:(
+    one: url('../images/social-media1.png'),
+    two: url('../images/social-media2.png'),
+    three:url('../images/social-media3.png'),
+    four: url('../images/social-media4.png')
+);
